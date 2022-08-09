@@ -12,11 +12,12 @@ just hit new branch ... but it's still not tracking to an upstream branch (githu
 
 now when I commit stuff, they go to the local repo branch 'new-branch'
 
-```{r}
-cool_code <- c(1,2,3)
+so, to make a branch: (from GUI)
 
-```
+-   click 'new branch'
 
-wow i love github so fkn much
+-   name it
 
-new branch aight here we go
+-   save and push
+
+-   deal with the merge on github
