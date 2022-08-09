@@ -5,3 +5,14 @@ editor: visual
 ---
 
 ## Learning about branches
+
+now i'm gonna create a branch (using GUI) that I will be using for the rest of the day
+
+just hit new branch ... but it's still not tracking to an upstream branch (github)
+
+now when I commit stuff, they go to the local repo branch 'new-branch'
+
+```{r}
+cool_code <- c(1,2,3)
+
+```
